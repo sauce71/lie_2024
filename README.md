@@ -6,7 +6,12 @@
 
 [Micropython  - Quick reference for the Raspberry Pi Pico](https://docs.micropython.org/en/latest/rp2/quickref.html)
 
-[Micropython library for the AGS10 TVOC sensor](https://github.com/gaveshalabs/AGS10_sensor)
+[Micropython library - AGS10 sensor](https://github.com/gaveshalabs/AGS10_sensor)
+
+[Micropython library - AHT20 sensor](https://github.com/targetblank/micropython_ahtx0)
+
+[Micropython library - BME/BMP 280 sensor](https://github.com/robert-hh/BME280)
+
 
 ## Raspberry Pi Pico pinout
 ![Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/images/picow-pinout.svg)
