@@ -11,3 +11,8 @@
 ## Raspberry Pi Pico pinout
 ![Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/images/picow-pinout.svg)
 
+## AGS10 sensor
+![AGS10](https://raw.githubusercontent.com/sauce71/lie_2024/main/images/AGS10.jpg)
+
+## AHT20 + BMP280
+![AHT20 + BMP280](https://raw.githubusercontent.com/sauce71/lie_2024/main/images/AHT20-BMP280.jpg)
