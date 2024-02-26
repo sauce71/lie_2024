@@ -1,4 +1,4 @@
-# Elektronikkkurs - Bydelshuset på Lie - Vår 2024
+# Elektronikkurs - Bydelshuset på Lie - Vår 2024
 
 [Thonny, Python IDE for beginners](https://thonny.org/)
 
@@ -8,6 +8,6 @@
 
 [Micropython library for the AGS10 TVOC sensor](https://github.com/gaveshalabs/AGS10_sensor)
 
-Raspberry Pi Pico pinout
+## Raspberry Pi Pico pinout
 ![Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/images/picow-pinout.svg)
 
