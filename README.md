@@ -10,7 +10,7 @@
 
 [Micropython library - AHT20 sensor](https://github.com/targetblank/micropython_ahtx0)([Datablad](https://files.seeedstudio.com/wiki/Grove-AHT20_I2C_Industrial_Grade_Temperature_and_Humidity_Sensor/AHT20-datasheet-2020-4-16.pdf))
 
-[Micropython library - BME/BMP 280 sensor](https://github.com/robert-hh/BME280)
+[Micropython library - BME/BMP 280 sensor](https://github.com/robert-hh/BME280) ([Datablad](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/))
 
 
 ## Raspberry Pi Pico W pinout
