@@ -13,11 +13,11 @@
 [Micropython library - BME/BMP 280 sensor](https://github.com/robert-hh/BME280)
 
 
-## Raspberry Pi Pico pinout
+## Raspberry Pi Pico W pinout
 ![Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/images/picow-pinout.svg)
 
 ## AGS10 sensor
 ![AGS10](https://raw.githubusercontent.com/sauce71/lie_2024/main/images/AGS10.jpg)
 
-## AHT20 + BMP280
+## AHT20 og BMP280 sensorer
 ![AHT20 + BMP280](https://raw.githubusercontent.com/sauce71/lie_2024/main/images/AHT20-BMP280.jpg)
