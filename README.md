@@ -6,7 +6,7 @@
 
 [Micropython  - Quick reference for the Raspberry Pi Pico](https://docs.micropython.org/en/latest/rp2/quickref.html)
 
-[Micropython library - AGS10 sensor](https://github.com/gaveshalabs/AGS10_sensor)
+[Micropython library - AGS10 sensor](https://github.com/gaveshalabs/AGS10_sensor) [Datablad](http://www.aosong.com/userfiles/files/Datasheet%20AGS10.pdf)
 
 [Micropython library - AHT20 sensor](https://github.com/targetblank/micropython_ahtx0)
 
