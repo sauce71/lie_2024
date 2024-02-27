@@ -6,9 +6,9 @@
 
 [Micropython  - Quick reference for the Raspberry Pi Pico](https://docs.micropython.org/en/latest/rp2/quickref.html)
 
-[Micropython library - AGS10 sensor](https://github.com/gaveshalabs/AGS10_sensor) [Datablad](http://www.aosong.com/userfiles/files/Datasheet%20AGS10.pdf)
+[Micropython library - AGS10 sensor](https://github.com/gaveshalabs/AGS10_sensor) ([Datablad](http://www.aosong.com/userfiles/files/Datasheet%20AGS10.pdf))
 
-[Micropython library - AHT20 sensor](https://github.com/targetblank/micropython_ahtx0)
+[Micropython library - AHT20 sensor](https://github.com/targetblank/micropython_ahtx0)([Datablad](https://files.seeedstudio.com/wiki/Grove-AHT20_I2C_Industrial_Grade_Temperature_and_Humidity_Sensor/AHT20-datasheet-2020-4-16.pdf))
 
 [Micropython library - BME/BMP 280 sensor](https://github.com/robert-hh/BME280)
 
