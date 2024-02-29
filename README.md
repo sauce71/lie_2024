@@ -26,6 +26,3 @@
 
 ## AGS10 sensor
 ![AGS10](https://raw.githubusercontent.com/sauce71/lie_2024/main/images/AGS10.jpg)
-
-
-[Driver for Windows 8](https://github.com/Melvinsajith/raspberrry_Pi_Pico_windows_7_8_xp)
