@@ -10,6 +10,8 @@
 
 [Micropython library - BME/BMP 280 sensor](https://github.com/robert-hh/BME280) ([Datablad](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/))
 
+[WOKWI Koblingskjema for AHT20 og BMP280](https://wokwi.com/projects/391063191374909441)
+
 [Micropython library - AGS10 sensor](https://github.com/gaveshalabs/AGS10_sensor) ([Datablad](http://www.aosong.com/userfiles/files/Datasheet%20AGS10.pdf))
 
 ## Raspberry Pi Pico W pinout
