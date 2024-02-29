@@ -18,6 +18,9 @@
 
 [WOKWI Koblingskjema for AGS10](https://wokwi.com/projects/391064011653989377)
 
+### Andre lenker
+[Makerspace på Skogmo VGS](https://makerspaceskien.no/) ([Facebook](https://www.facebook.com/groups/makerspaceatskogmo/))
+
 ## Raspberry Pi Pico W pinout
 ![Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/images/picow-pinout.svg)
 
