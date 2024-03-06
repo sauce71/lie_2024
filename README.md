@@ -17,6 +17,8 @@ Kursholder: Tom Øyvind Hogstad - tom.oyvind.hogstad@gmail.com
 ### AGS10 utviklingskort
 [Micropython library - AGS10 sensor](https://github.com/gaveshalabs/AGS10_sensor) ([Datablad](http://www.aosong.com/userfiles/files/Datasheet%20AGS10.pdf))
 
+[Hva er VOC?](https://www.airthings.com/no/hva-er-voc)
+
 [WOKWI Koblingskjema for AGS10](https://wokwi.com/projects/391064011653989377)
 
 ### Andre lenker
