@@ -16,6 +16,6 @@ while True:
     led.toggle() # Slår led av og på
     tvoc = sensor.total_volatile_organic_compounds_ppb # Leser tvoc
     print('TVOC:', tvoc) # Skriver ut de avleste verdiene
-    time.sleep(10)
+    time.sleep(10) # Venter i x sekunder
     
     

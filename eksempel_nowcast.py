@@ -1,4 +1,7 @@
+import network
 import requests
+
+
 
 # Eksempel på Nowcast API fra met.no
 # https://api.met.no/weatherapi/nowcast/2.0/documentation
@@ -8,6 +11,18 @@ import requests
 
 # Tilleget JSON Fromatter for Google Chrome gjør JSON mer leselig
 # https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa
+
+
+# Kobler til wifi
+sta_if = network.WLAN(network.STA_IF) # Static interface
+sta_if.active(True) # Aktiverer netwerk
+
+sta_if.connect('kurs', 'kurs2024') # Kobler til wifi
+
+while not sta_if.isconnected(): # Venter på at tilkoblingen er klar
+    time.sleep(1)
+print('\nNettverks konfigurasjon', sta_if.ifconfig()) # Printer nettverkskonfigurasjon
+
 
 
 # Koordinater for ønsket lokasjon (En kan finne koordinater ved å høyreklikke i Google Maps)
