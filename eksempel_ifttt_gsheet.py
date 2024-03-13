@@ -56,6 +56,10 @@ row.append(str(pressure))
 row.append(str(temperature_aht20))
 row.append(str(temperature_bmp280))
 
+# Skrive data til en fil
+#f = open('data.csv', 'a')
+#f.write(','.join(row) + '\n')
+
 value2 = '|||'.join(row) # Slår sammen elementene i listen med ||| som deletegn
 
 ifttt_data = dict(value1='Tom', value2=value2, value3=0)
