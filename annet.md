@@ -18,15 +18,14 @@ Det eksisterer sensorer for det meste (Her er noen eksempel).
 - Accelerometer [Accelerometer](https://www.aliexpress.com/w/wholesale-accelerometer.html)
 - Kompass [Compass sensor](https://www.aliexpress.com/w/wholesale-compass-sensor.html)
 - GPS [GPS module](https://www.aliexpress.com/w/wholesale-gps-module.html)
-- Puls
-- EKG
-- Vekt (Load cell)
-- IR bryter
-- Lys
-- RGB Lys
-- Fleksibel motstand
-- Lyd
-- Ultralyd (Avstand)
-- Laser (Avstand)
+- Puls [Pulsesensor](https://www.aliexpress.com/w/wholesale-pulsesensor.html)
+- EKG [Eksempel](https://www.aliexpress.com/item/32881611034.html)
+- Vekt [Load cell](https://www.aliexpress.com/w/wholesale-load-cell.html)
+- Lys [light sensor module](https://www.aliexpress.com/w/wholesale-light-sensor-module.html)
+- Fargesensor [Color sensor module](https://www.aliexpress.com/w/wholesale-color-sensor-module.html)
+- Fleksibel motstand [Flex sensor](https://www.aliexpress.com/w/wholesale-flex-sensor.html?spm=a2g0o.productlist.search.0)
+- Lyd [Sound sensor](https://www.aliexpress.com/w/wholesale-sound-sensor.html?spm=a2g0o.productlist.search.0)
+- Ultralyd (Avstand) [Ultrasound sensor](https://www.aliexpress.com/w/wholesale-ultrasound-sensor.html?spm=a2g0o.productlist.search.0)
+- Laser (Avstand) [Time of flight laser sensor](https://www.aliexpress.com/w/wholesale-time-of-flight-laser-sensor.html?spm=a2g0o.productlist.search.0)
 - Fuktighet
-- Jordfuktighet
+- Jordfuktighet [Soil moisture sensor module](https://www.aliexpress.com/w/wholesale-soil-moisture-sensor-module.html)
