@@ -27,5 +27,7 @@ Det eksisterer sensorer for det meste (Her er noen eksempel).
 - Lyd [Sound sensor](https://www.aliexpress.com/w/wholesale-sound-sensor.html?spm=a2g0o.productlist.search.0)
 - Ultralyd (Avstand) [Ultrasound sensor](https://www.aliexpress.com/w/wholesale-ultrasound-sensor.html?spm=a2g0o.productlist.search.0)
 - Laser (Avstand) [Time of flight laser sensor](https://www.aliexpress.com/w/wholesale-time-of-flight-laser-sensor.html?spm=a2g0o.productlist.search.0)
-- Fuktighet
+- Regn [rain sensor module](https://www.aliexpress.com/w/wholesale-rain-sensor-module.html)
 - Jordfuktighet [Soil moisture sensor module](https://www.aliexpress.com/w/wholesale-soil-moisture-sensor-module.html)
+- Lyn [Lightning sensor](https://www.aliexpress.com/w/wholesale-lightning-sensor.html)
+- 
