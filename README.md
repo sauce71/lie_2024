@@ -24,7 +24,7 @@ Kursholder: Tom Øyvind Hogstad - tom.oyvind.hogstad@gmail.com
 ### Andre lenker
 [Makerspace på Skogmo VGS](https://makerspaceskien.no/) ([Facebook](https://www.facebook.com/groups/makerspaceatskogmo/))
 
-[Diverse](https://github.com/sauce71/lie_2024/blob/main/annet.md)
+[Annet](https://github.com/sauce71/lie_2024/blob/main/annet.md)
 
 ## Raspberry Pi Pico W pinout
 ![Raspberry Pi Pico Pinout](https://www.raspberrypi.com/documentation/microcontrollers/images/picow-pinout.svg)
