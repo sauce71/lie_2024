@@ -7,13 +7,17 @@ Disse har tilgjengelig en ok bok, som en kan følge og lære om alle komponenten
 Det er også et basis komponent kit som kommer i mange varianter fra mange leverandører.
 [sensor kit](https://www.aliexpress.com/w/wholesale-sensor-kit.html)
 
+For å finne ut hvordan en gjør noe, så er dette en ting CoPilot og ChatGPT er veldig gode på. Eksempelvis dette spørsmålet:
+
+[connect a pushbutton in MicroPython on Raspberry Pi Pico](https://sl.bing.net/bMZQ7j99BiC)
+
 Det eksisterer sensorer for det meste (Her er noen eksempel).
-- Temperatur
+- Temperatur [temperature sensor](https://www.aliexpress.com/w/wholesale-temperature-sensor.html)
 - Temperatur probe [DS18B20](https://www.aliexpress.com/w/wholesale-ds18b20.html)
 - Temperatur - termistor (Høy temperatur) [thermistor](https://www.aliexpress.com/w/wholesale-thermistor.html)
-- Luftfuktighet
-- Barometrisk trykk
-- TVOC
+- Luftfuktighet [humidity sensor module](https://www.aliexpress.com/w/wholesale-humidity-sensor-module.html)
+- Barometrisk trykk [pressure sensor module](https://www.aliexpress.com/w/wholesale-pressure-sensor-module.html)
+- TVOC [tvoc sensor](https://www.aliexpress.com/w/wholesale-tvoc-sensor.html)
 - Ekte CO2 [SCD41](https://thepihut.com/products/scd41-co2-sensor-breakout-carbon-dioxide-temperature-humidity)
 - Partikkel [particle sensor](https://www.aliexpress.com/w/wholesale-particle-sensor.html)
 - PIR (Bevegelse) [PIR Sensor](https://www.aliexpress.com/w/wholesale-pir-sensor.html)
